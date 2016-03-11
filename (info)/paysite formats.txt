@@ -1,0 +1,197 @@
+2000charge..............U: email, P: 4-10 characters
+ACH Bill.......................No restrictions
+AlfaBill.......................u: no restriction p: mailed
+AllNet.........................No restrictions
+Apple Gate.....................u: No restriction , p: 4-8
+ATS Bank.......................u: No restriction p: mailed
+BestSiteBilling...............U/P will be sent to you
+BHE-bill.....................U/P: must be alpha-numeric at least 5 chars
+Billingservices................No restrictions
+BillingFrance .............L=only numbers, P=only Capitals
+CardsGATE billing.......... U/P sent to you by mail
+C.C.B.i.l.l.........................U:6-16chars , P:6-8 chars u can not be the same.
+CDM Networks.............. u:email. p:mailed to you
+Charge Solutions...............Mailed Pass- (when picked has no restrictions)
+CHBill............................No restrictions
+Cool Piranha billing.........U/P will be sent to you
+Comfortpay ........generally minimum 3 char, (many sites with own restrictions)
+Compugramming..................No restrictions
+Croesus Billing..............U: no restrictions. P: email
+CSB Entertainment..............No Restrictions
+CBill..........................No Restrictions
+DataWorld ...............all Form-login, either 7 or 10 char. & numbers
+DCBill.........................No restrictions
+Dhdmedia...................No restrictions
+DiBill.......................generally the submitter choose
+DPBill.....................L & P min 3 char
+Dti services.......U:MAX 14 characters,P:8-14 at least one symbol, U: P can not be the same
+DutchBilling.......supposed to be runned from I*Bill
+all passes I have seen are 8 & 7 digits only.
+a few of these sites use also VisionBill
+EENT...........................4-8 character
+E-payment................every user will be sent a password.
+EzBill.........................5-15 Character
+FineLine.......................No Restrictions
+FSP Billing....................4-8 Character
+Ginix billing........... userID and Password will be delivered by email after payment process is completed
+G.l.o.B.i.l.l........................3-15 Digits username:No restrictions on password
+Globosale......................U: 4-14 Characters, P:will be sent to you, then you can change it manually threw service desk
+HHBill.........................6 character user; 5 character pass (no digits)
+I.B.i.l.l..........................u: generated 7 random letters & numbers p: random 7 digit number
+I.B.i.l.l..........................u: choosed by member p: random 7 digit number
+I.B.i.l.l..........................u: choosed by member p: choosed by member (length differs)
+ICBill ......................L & P 6 char minimum
+ICOMSERVICE.........U/P: id will be sent to you from provider
+Inet-cash............... u: email adress,p:8-10 randomly generated digits
+Internet Strategies............No Restrictions
+Internet Ventures..............No Restrictions
+IPay...........................No Restrictions
+JetBill.......................2-32 Character username:6-32 character password
+JetCharge......................u: 6-20 , p: 6-32 Character
+jettis.com .....................U/P no restrictions
+Kodiak.............................No restrictions
+L.a.n.c.e.l.o.t.......................Minimum of 6 Characters, u can not be the same
+LiberECO....... - User name and password have to differ. They both have to consist of 5 to 8 alphanumeric symbols and should not contain any special characters
+MAK............................5-15 Character
+LinkBill.......................generally the submitter choose
+Mybillinggroup...............U/P 6-10,alpha/numral
+M.S.B.ill.........................Minimum of 4 Characters
+N.e.t.B.i.l.l.i.n.g.....................No restrictions
+nCharge.....................U: no restrictions. P: will be emailed to you
+NPH Charge.....................No restrictions
+OdesseyBill..................L & P ? (all sites are HTML-Form)
+Orangebill................You will receive a password and account designation
+One-verify...................U/P:Alpha-numeric and at least 5 characters
+Paycom.........................minimum of 3 Characters
+PayPal.........................u: email address, p: minimum of 8 characters
+PayPal.........................u: No Restrictions, p: minimum of 8 characters
+Pay-System.....................No Restrictions
+Pl-Bill:........................... U/P: 4-8 chars
+Plug & Pay Technologies.....U/P: 4-8 chars..U/P CAN NOT be the same
+PNP............................minimum of 4 Characters
+Proadault Billing......U: 4-6 digets P: any characters
+Probilling...............U:6 - 8 characters, p:any combination of letters AND numbers
+Proximus Media............U/P: will be sent to you from provider
+PSbill..........................U/P.:will be emailed to you
+PWS Billing....................6-12 Character
+Python..........................3-? char
+RJBTelcom....................6-8 Character
+SilverCash...................U/P alpha-nummeric, atleast 3
+Solarbilling.................. U:email. P: no restrictions
+Storm pay..................U: email, P: at least 6 chars and at least 1 diget
+SunBill........................Mailed Pass
+Thawte.........................4-10 Character User; Mailed Password
+Triplexcash...................U/P:at least 6 characters, U: P can not be comon
+Validate........................L=only numbers, P=only Capital
+Verisign.......................Minimum of 3 Characters (same as Paycom?)
+V.e.r.o.t.e.l........................8:7 diggits, also 7:7 diggits, also 7:8 diggits
+VisionBill......................U: P:3-10 char.,
+Webcombilling.......... id and password will be sent by company
+Website Billing................No restrictions
+Webpower.......................u: 6-10, p: 6-15 Character
+Web Quest......................u: 2-8 , p: 6-8
+WNU (Paycom)...................minimum of 3 Characters
+WSPay.......................... a member's id will be sent to you
+WTS Billing....................No restrictions
+Zero......................... U: email, P:6 character
+
+
+BEI............................4-20 character username; 4-14 character password; u can not be the same
+CCBill.........................6-8 Character, u can not be the same.
+Charge Solutions...............Mailed Pass- (when picked has no restrictions)
+Compugramming..................No restrictions
+DCBill.........................No Restrictions
+EENT........................... username = e-mail address password 6-12 characters (cAsE sensitive)
+HHBill.........................6 character user; 5 character pass (no digits)
+Internet Strategies............No Restrictions
+Internet Ventures..............No Restrictions
+JetBill........................2-32 Character username:6-32 character password
+Kodiak.........................No restrictions
+Lancelot.......................6 or more character, u can not be the same
+MSBill.........................Minimum of 4 characters
+NetBilling.....................u can not be the same
+NPH............................No restrictions
+Paycom.........................minimum of 3 characters
+PayPal.........................username-email address; pass-minimum of 8 characters
+Pay-System.....................No Restrictions
+PNP............................minimum of 4 characters
+RJBTelcom......................6-8 character userass
+SunBill........................Mailed Pass
+Verisign.......................Minimum of 3 characters
+Verotel........................8 digit Username 7 digit Pass
+Website Billing................No restrictions
+WebQuest.......................2-8 character username:6-8 character password
+WNU............................Minimum of 3 characters
+
+More: Credit goes to matt for passing these over for me to update this thread
+
+2000charge..............U: email, P: 4-10 characters
+ACH Bill.......................No restrictions
+AlfaBill.......................u: no restriction p: mailed
+AllNet.........................No restrictions
+Apple Gate.....................u: No restriction , p: 4-8
+ATS Bank.......................u: No restriction p: mailed
+BestSiteBilling...............U/P will be sent to you
+BHE-bill.....................U/P: must be alpha-numeric at least 5 chars
+Billingservices................No restrictions
+BillingFrance .............L=only numbers, P=only Capitals
+CardsGATE billing.......... U/P sent to you by mail
+C.C.B.i.l.l.........................6-8 Character, u can not be the same.
+CDM Networks.............. u:email. p:mailed to you
+Charge Solutions...............Mailed Pass- (when picked has no restrictions)
+CHBill............................No restrictions
+Cool Piranha billing.........U/P will be sent to you
+Comfortpay ........generally minimum 3 char, (many sites with own restrictions)
+Croesus Billing..............U: no restrictions. P: email
+CSB Entertainment..............No Restrictions
+DataWorld ...............all Form-login, either 7 or 10 char. & numbers
+Dhdmedia...................No restrictions
+DiBill.......................generally the submitter choose
+DPBill.....................L & P min 3 char
+Dti services.......U:MAX 14 characters,P:8-14 at least one symbol, U: P can not be the same
+DutchBilling.......supposed to be runned from I*Bill
+all passes I have seen are 8 & 7 digits only.
+a few of these sites use also VisionBill
+EzBill.........................5-15 Character
+FineLine.......................No Restrictions
+FSP Billing....................4-8 Character
+Ginix billing........... userID and Password will be delivered by email after payment process is completed
+Globosale......................U: 4-14 Characters, P:will be sent to you, then you can change it manually threw service desk
+IBill..........................u: generated 7 random letters & numbers p: random 7 digit number
+IBill..........................u: choosed by member p: random 7 digit number
+IBill..........................u: choosed by member p: choosed by member (length differs)
+ICBill ......................L & P 6 char minimum
+ICOMSERVICE.........U/P: id will be sent to you from provider
+Inet-cash............... u: email adress,p:8-10 randomly generated digits
+IPay...........................No Restrictions
+JetCharge......................u: 6-20 , p: 6-32 Character
+jettis.com .....................U/P no restrictions
+LiberECO....... - User name and password have to differ. They both have to consist of 5 to 8 alphanumeric symbols and should not contain any special characters
+LinkBill.......................generally the submitter choose
+MAK............................5-15 Character
+Mybillinggroup...............U/P 6-10,alpha/numral
+nCharge.....................U: no restrictions. P: will be emailed to you
+OdesseyBill..................L & P ? (all sites are HTML-Form)
+one-verify...................U/P:Alpha-numeric and at least 5 characters
+Pl-Bill:........................... U/P: 4-8 chars
+Plug & Pay Technologies.....U/P: 4-8 chars Usernames and Passwords CAN NOT be the same, are restricted to a maximum of 8 characters and usernames MUST contain both UPPER / lower case letters and numbers. Any blank spaces or special characters (*,!,#,? etc... ) will be removed. Please enter your choices accordingly. You will receive an email with your Username and Password for your records.
+Desired Username: A Minimum of 4 Characters Required
+Password: A Minimum of 4 Characters Required
+Password: Please enter your password a second time to verify.
+Proadault Billing......U: 4-6 digets P: any characters
+Probilling...............U:6 - 8 characters, p:any combination of letters AND numbers
+Proximus Media............U/P: will be sent to you from provider
+PSbill..........................U/P.:will be emailed to you
+PWS Billing....................6-12 Character
+SilverCash...................U/P alpha-nummeric, atleast 3
+Storm pay..................U: email, P: at least 6 chars and at least 1 diget
+Thawte.........................4-10 Character User; Mailed Password
+Triplexcash...................U/P:at least 6 characters, U: P can not be comon
+Validate........................L=only numbers, P=only Capital
+VisionBill......................U: P:3-10 char.
+Webcombilling.......... id and password will be sent by company
+Webpower.......................u: 6-10, p: 6-15 Character
+WSPay.......................... a member's id will be sent to you
+WTS Billing....................No restrictions
+Zero......................... U: email, P:6 character
+

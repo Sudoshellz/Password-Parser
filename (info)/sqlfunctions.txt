@@ -1,0 +1,8 @@
+connect
+mysql
+mysql_connect
+mysqli
+mysqli_connect
+mysqli_real_connect
+PDO
+real_connect
