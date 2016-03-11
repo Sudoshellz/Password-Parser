@@ -1,6 +1,6 @@
 Hurl is a tool that extracts unique username/password combos from raw data in a variety of formats. This tool will identify, extract, clean, and then sort any combos found in the data. 
 
-*Note: I am uploading this in an unknown state, it might not work as-is. Also you shouldn't place this on a public-facing web site for now. Especially with that cmdline folder in there.*
+*Note: I am uploading this in an unknown state, it might not work as-is. Also you shouldn't place this on a public-facing web site for now.*
 
 This repository includes both a command-line parser (hurlc.php) and a web page version. You definitely should not upload the command-line version to your web site.
 
