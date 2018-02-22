@@ -11,42 +11,79 @@ Combo Parsing
 This tool will identify usernames and passwords in many different formats, including the following:
 
 username:password
+
 username : password
+
 username - password
+
 http://username:password@www.example.com
+
 http://www.example.com/members/ L:username P:password
+
 http://www.example.com/members login:username password:password
+
 http://www.example.com/members user: username pass: password
+
 Login: username passw:password
+
 L:username P:password
+
 username:username password:password
+
 Name: username Password: password
+
 http://www.example.com/members L: username P: password
+
 username = username password= password
+
 u=username p=password
+
 Username username Password password
+
 login id: username password: password
 
+-
+
 Login: username
+
 Password: password
 
+-
+
 Email :username@gmail.com
+
 Password :password
 
+-
+
 name: = "username";
+
 password: = "password";
 
+-
+
 email@address.com password
+
 email@address.com | password
+
 email@address.com - password
 
+-
+
 Domain.name user password
+
 domain.name:user:password
 
+-
+
 DSN=myDsn;Uid=myUsername;Pwd=;
+
 Provider=MSDAORA.1;Password=password;User ID=username;Data Source=data;
 
+-
+
 DEFINE ('DB_USER', 'username');
+
 DEFINE ('DB_PASSWORD', 'password');
 
 Limitations
